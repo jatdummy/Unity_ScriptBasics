@@ -1,2 +1,4 @@
-# Unity_T_T_
-Unity 수업 및 실습 코드.
+Unity_ScriptBasics  
+
+[2026-08-31] 유니티 에디터 구성, Unity 프로젝트 버전 관리 (팀 전시실 과제) - EditorAndVersionControl
+Unity 수업을 하면서 수업내용, 실습, 과제 등을 정리하였다.
